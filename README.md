@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dorianginisty
-- 👀 I’m interested in ...
+- 👀 I’m interested in AI/BigData
 - 🌱 I’m currently learning at 42School
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me? Send a mail at dorian.ginisty00@gmail.com
 
 <!---
 dorianginisty/dorianginisty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
